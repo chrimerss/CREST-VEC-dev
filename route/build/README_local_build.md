@@ -1,0 +1,3 @@
+export LDFLAGS='-L/mnt/s/Models/mizuRoute-feature-mpi-pio/mizuRoute-feature-mpi-pio/netcdf_c_mpi/lib -L/mnt/s/Models/mizuRoute-feature-mpi-pio/mizuRoute-feature-mpi-pio/PnetCDF/lib -L/mnt/s/Models/mizuRoute-feature-mpi-pio/mizuRoute-feature-mpi-pio/hdf5/lib -I/mnt/s/Models/mizuRoute-feature-mpi-pio/mizuRoute-feature-mpi-pio/netcdf_fortran_mpi/lib'
+
+export CPPFLAGS='-I/mnt/s/Models/mizuRoute-feature-mpi-pio/mizuRoute-feature-mpi-pio/netcdf_c_mpi/include -I/mnt/s/Models/mizuRoute-feature-mpi-pio/mizuRoute-feature-mpi-pio/PnetCDF/include -I/mnt/s/Models/mizuRoute-feature-mpi-pio/mizuRoute-feature-mpi-pio/hdf5/include -I/mnt/s/Models/mizuRoute-feature-mpi-pio/mizuRoute-feature-mpi-pio/netcdf_fortran_mpi/include'
